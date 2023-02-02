@@ -71,7 +71,7 @@
     "ms": "2.1.1",
     "node-mac-permissions": "2.2.0",
     "normalize-url": "^1.9.1",
-    "npm": "6.14.8",
+    "npm": "9.4.1",
     "pretty-bytes": "^4.0.2",
     "prop-types": "^15.5.10",
     "react": "16.8.6",
